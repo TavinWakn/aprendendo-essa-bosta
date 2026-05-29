@@ -1,4 +1,4 @@
-if (!global.game_started) exit;
+//if (!global.game_started) exit;
 with (obj_cutscene) {
 	switch(scene)
 	{
@@ -21,7 +21,7 @@ with (obj_cutscene) {
 			if (instance_exists(obj_player)) {
 				if (obj_player.x >= 55) {
 				{
-					obj_player.sprite_index = spr_playerrstop;
+					obj_player.sprite_index = spr_player_rstop;
 
 					obj_player.image_speed = 0;
 
