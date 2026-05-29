@@ -1,4 +1,4 @@
-if (!global.game_started) exit;
+//if (!global.game_started) exit;
 with (obj_cutscene) {
 	switch(scene)
 	{
