@@ -98,11 +98,15 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+<<<<<<< Updated upstream
+=======
+    {"roomId":{"name":"rm_cidade_noite","path":"rooms/rm_cidade_noite/rm_cidade_noite.yy",},},
+    {"roomId":{"name":"rm_apt","path":"rooms/rm_apt/rm_apt.yy",},},
+>>>>>>> Stashed changes
     {"roomId":{"name":"rm_cidade","path":"rooms/rm_cidade/rm_cidade.yy",},},
     {"roomId":{"name":"rm_apt","path":"rooms/rm_apt/rm_apt.yy",},},
     {"roomId":{"name":"teste","path":"rooms/teste/teste.yy",},},
     {"roomId":{"name":"rm_office","path":"rooms/rm_office/rm_office.yy",},},
-    {"roomId":{"name":"rm_cidade_noite","path":"rooms/rm_cidade_noite/rm_cidade_noite.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
