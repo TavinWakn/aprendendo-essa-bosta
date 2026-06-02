@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"colisor","order":1,"path":"objects/colisor/colisor.yy",},
+    {"name":"teste","order":1,"path":"rooms/teste/teste.yy",},
+    {"name":"spr_colisor","order":2,"path":"sprites/spr_colisor/spr_colisor.yy",},
+    {"name":"Sprite27","order":1,"path":"sprites/Sprite27/Sprite27.yy",},
+  ],
+}
